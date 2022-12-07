@@ -39,7 +39,7 @@
 
 ## 🚀Instalación
 - Descarga el instalador a través del [link](https://pseint.sourceforge.net/)
-- Sigue el paso a paso con el [instructivo](https://drive.google.com/file/d/1eNETs4sR5wRqgZuA8mFsgKHD0ZaFPlbX/view) 
+- Sigue el paso a paso con el instructivo
 -  Descargar y cargar el perfil personalizado a PseInt [link](https://drive.google.com/file/d/1o3Abcs1poX9BFSl2ZemJOewcM7KeQ5eu/view)
 
 ### _Para Windows_
@@ -47,11 +47,10 @@
 Si se utiliza la versión "portable", el ejecutable que se debe lanzar es "wxPSeInt.exe".</p>
 
 ### _Para GNU/Linux_
-<p align="justify>El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=lnx">paquete para GNU/Linux</a> es un comprimido tgz. Si no sabe qué versión elegir (32 o 64 bits) ejecute el comando "uname -m" en una terminal, y si el resultado es "x86_64" seleccione la de 64bits, en caso contrario la de 32bits.</p>
+<p align="justify>El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=lnx">paquete para GNU/Linux</a> es un comprimido tgz. Si no sabe qué versión elegir (32 o 64 bits) ejecute el comando <b><em>"uname -m"</b></em> en una terminal, y si el resultado es <b><em>"x86_64"</b></em> seleccione la de 64bits, en caso contrario la de 32bits.</p>
 
 ```
-$ uname -m
-x86_64
+uname -m
 ```
 
 <p align="justify">No necesita instalación, solo descomprimir y ejecutar en el directorio "pseint" el archivo "pseint". Puede hacerlo desde una terminal con los comandos:</p>
