@@ -43,11 +43,11 @@
 -  Descargar y cargar el perfil personalizado a PseInt [link](https://drive.google.com/file/d/1o3Abcs1poX9BFSl2ZemJOewcM7KeQ5eu/view)
 
 ### _Para Windows_
-<p align="justify>El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=w32">paquete para Windows</a> es un instalador ejecutable. Abrir y seguir las instrucciones (el mismo instalador funciona en cualquier Windows, ya sea de 32 o 64 bits).
+<p align="justify">El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=w32">paquete para Windows</a> es un instalador ejecutable. Abrir y seguir las instrucciones (el mismo instalador funciona en cualquier Windows, ya sea de 32 o 64 bits).
 Si se utiliza la versión "portable", el ejecutable que se debe lanzar es "wxPSeInt.exe".</p>
 
 ### _Para GNU/Linux_
-<p align="justify>El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=lnx">paquete para GNU/Linux</a> es un comprimido tgz. Si no sabe qué versión elegir (32 o 64 bits) ejecute el comando <b><em>"uname -m"</b></em> en una terminal, y si el resultado es <b><em>"x86_64"</b></em> seleccione la de 64bits, en caso contrario la de 32bits.</p>
+<p align="justify">El <a href="https://pseint.sourceforge.net/index.php?page=descargas.php&os=lnx">paquete para GNU/Linux</a> es un comprimido tgz. Si no sabe qué versión elegir (32 o 64 bits) ejecute el comando <b><em>"uname -m"</b></em> en una terminal, y si el resultado es <b><em>"x86_64"</b></em> seleccione la de 64bits, en caso contrario la de 32bits.</p>
 
 ```
 uname -m
