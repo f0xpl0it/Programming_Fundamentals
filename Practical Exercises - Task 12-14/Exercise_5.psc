@@ -1,23 +1,23 @@
-///Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número es
-///primo o no. Un número es primo cuando es divisible sólo por 1 y por sí mismo, por ejemplo: 2,
+///Realizar una funciÃ³n que reciba un numero ingresado por el usuario y averigÃ¼e si el nÃºmero es
+///primo o no. Un nÃºmero es primo cuando es divisible sÃ³lo por 1 y por sÃ­ mismo, por ejemplo: 2,
 ///3, 5, 7, 11, 13, 17, etc. Nota: recordar el uso del MOD.
 
 Algoritmo Exercise_5
 	Definir num Como Entero
 	
-	Escribir "Ingrese un número: "
+	Escribir "Ingrese un nÃºmero: "
 	Leer num
 	
 	Si primo(num) = 2 Entonces
-		Escribir "El número ingresado es Primo."
+		Escribir "El nÃºmero ingresado es Primo."
 	SiNo
-		Escribir "El número ingresado No es primo."
+		Escribir "El nÃºmero ingresado No es primo."
 	FinSi
 	
 FinAlgoritmo
 
 
-Funcion respuesta <- primo(num)
+Funcion respuesta = primo(num)
 	
     Definir respuesta, i Como Entero
     respuesta = 0
