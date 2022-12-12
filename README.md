@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/pseint-00BC8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pseint.sourceforge.net/slide/pseint.html">
   <img src="https://img.shields.io/badge/Pseudocode-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Project%20Status-91/100%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Project%20Status-97/100%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
