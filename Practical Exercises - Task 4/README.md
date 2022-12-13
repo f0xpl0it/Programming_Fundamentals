@@ -1,6 +1,6 @@
 # 🎏Ejercicios Encuentro 4
 
-## <p align="center">Condicional Simple</p>
+## <p align="center">Condición Simple</p>
 
 ### Ejercicio 1
 <p align="justify">Un hombre desea saber si su sueldo es mayor al sueldo mínimo, el programa le pedirá al usuario su sueldo actual y el sueldo mínimo. Si el sueldo es mayor al mínimo se debe mostrar un mensaje por pantalla indicándolo.</p>
