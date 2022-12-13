@@ -78,16 +78,35 @@ cd pseint
 - Utilizar métodos de lectura para ingresar valores por teclado y alojarlo en las variables.
 - Operar con los diferentees tipos de variables.
 
+>_Guía Teórica_
+
+>**_Ejercicios Practicos:_** _[Encuentro 1](Practical%20Exercises%20-%20Task%201) - [Encuentro 2](Practical%20Exercises%20-%20Task%202) - [Encuentro 3](Practical%20Exercises%20-%20Task%203)_
+
+>**_Ejercicios Extras:_** _[Encuentro 3](Practical%20Exercises%20-%20Task%203/Extra%20Exercises%20-%20Task%203)_
+
 ## ⚡Estructuras Selectivas
 ### _Guía 2.1_
 - Diferenciar estructuras secuenciales de selectivas.
 - Armar estructuras condicionales.
 - Usar estructuras condicionales.
 
+>_Guía Teórica_
+
+>**_Ejercicios Practicos:_** _[Encuentro 4](Practical%20Exercises%20-%20Task%204) - [Encuentro 5](Practical%20Exercises%20-%20Task%205) - [Encuentro 6](Practical%20Exercises%20-%20Task%206)_
+
+>**_Ejercicios Extras:_** _[Encuentro 5](Practical%20Exercises%20-%20Task%205/Extra%20Exercises%20-%20Task%205) - [Encuentro 6](Practical%20Exercises%20-%20Task%206/Extra%20Exercises%20-%20Task%206)_
+
+
 ## ⚡Estructuras Repetitivas  
 ### _Guía 2.2_
 - Armar estructuras repetitivas.
 - Usar estructuras repetitivas.
+
+>_Guía Teórica_
+
+>**_Ejercicios Practicos:_** _[Encuentro 7](Practical%20Exercises%20-%20Task%207) - [Encuentro 8](Practical%20Exercises%20-%20Task%208) - [Encuentro 9](Practical%20Exercises%20-%20Task%209) - [Encuentro 10](Practical%20Exercises%20-%20Task%2010)_
+
+>**_Desafío 1:_** _[Encuentro 11](Practical%20Exercises%20-%20Task%2011)_
 
 ## ⚡Funciones y Subprogramas
 ### _Guía 3_
@@ -100,6 +119,11 @@ cd pseint
 - Definir variables de retorno y operar con ellas.
 - Utilizar estructuras de control en Funciones y Subprogramas.
 
+>_Guía Teórica_
+
+>**_Ejercicios Practicos:_** _[Encuentro 12-14](Practical%20Exercises%20-%20Task%2012-14) - [Encuentro 15-16](Practical%20Exercises%20-%20Task%2015-16)_
+>>**_Desafío 2:_** _[Encuentro 17](Practical%20Exercises%20-%20Task%2017)_
+
 ## ⚡Arreglos
 ### _Guía 4_
 - Definir arreglos de acuerdo al tipo de dato que contendrán.
@@ -107,6 +131,13 @@ cd pseint
 - Rellenar arreglos.
 - Mostrar correctamente arreglos por pantalla.
 - Utilizar funciones y subprogramas, y estructuras de control para trabajar con arreglos y matrices.
+
+>_Guía Teórica_
+
+>**_Ejercicios Practicos:_** _[Encuentro 18-21](Practical%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](Practical%20Exercises%20-%20Task%2022-25)_
+
+>**_Ejercicios Extras:_** _[Encuentro 18-21](Practical%20Exercises%20-%20Task%2018-21/Extra%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](Practical%20Exercises%20-%20Task%2018-21/Extra%20Exercises%20-%20Task%2022-25)_
+
 <hr>
 
 <p align="center">
