@@ -49,4 +49,5 @@ puede calcular?</p>
 <p align="justify">Dado un número de dos cifras, diseñe un algoritmo que permita obtener el número invertido. Ejemplo, si se introduce 23 que muestre 32.</p>
 
 ### Ejercicio 15
-<p align="justify">Un ciclista parte de una ciudad A a las HH horas, MM minutos y SS segundos. El tiempo de viaje hasta llegar a otra ciudad B es de T segundos.</p>
+<p align="justify">Un ciclista parte de una ciudad A a las HH horas, MM minutos y SS segundos. El tiempo de viaje hasta llegar a otra ciudad B es de T segundos.
+Escribir un algoritmo quedetermine la hora de llegada a la ciudad B.</p>
