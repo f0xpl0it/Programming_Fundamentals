@@ -78,7 +78,7 @@ cd pseint
 - Utilizar métodos de lectura para ingresar valores por teclado y alojarlo en las variables.
 - Operar con los diferentees tipos de variables.
 
->Guías Teóricas: [Encuentro 1](https://drive.google.com/file/d/1pPqSqaUUJCIFRypI8AFXuE_SULNexfl6/view) - [Encuentro 2](https://drive.google.com/file/d/1shYewvlZ1cmfgHRQVVmBuTwEI7qvsUNh/view)
+>**_Guías Teóricas:_** _[Encuentro 1](https://drive.google.com/file/d/1pPqSqaUUJCIFRypI8AFXuE_SULNexfl6/view) - [Encuentro 2-3](https://drive.google.com/file/d/1shYewvlZ1cmfgHRQVVmBuTwEI7qvsUNh/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 1](Practical%20Exercises%20-%20Task%201) - [Encuentro 2](Practical%20Exercises%20-%20Task%202) - [Encuentro 3](Practical%20Exercises%20-%20Task%203)_
 
