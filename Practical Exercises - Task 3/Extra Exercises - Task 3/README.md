@@ -34,9 +34,9 @@ ventas que realiza en el mes y el total que recibirá en el mes tomando en cuent
 ### Ejercicio 11
 <p align="justify">Un alumno desea saber cuál será su calificación final en la materia de Algoritmos. Dicha calificación se compone de los siguientes porcentajes:</p>
 
-  - a. 55% del promedio de sus tres calificaciones parciales.
-  - b. 30% de la calificación del examen final.
-  - c. 15% de la calificación de un trabajo final.
+  -  55% del promedio de sus tres calificaciones parciales.
+  -  30% de la calificación del examen final.
+  -  15% de la calificación de un trabajo final.
 
 ## Ejercicio 12
 Pide al usuario dos números y muestra la “distancia” entre ellos (el valor absoluto de su diferencia, de modo que el resultado sea siempre positivo).
