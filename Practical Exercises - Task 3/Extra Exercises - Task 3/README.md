@@ -1,4 +1,4 @@
-# 🎏Ejercicios Encuentro 3
+# 🎏Ejercicios Extras Encuentro 3
 
 ### Ejercicio 1
 <p align="justify">Escribir un programa que pregunte al usuario su nombre, y luego lo salude.</p>
