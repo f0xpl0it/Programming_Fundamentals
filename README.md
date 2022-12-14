@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/pseint-00BC8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pseint.sourceforge.net/slide/pseint.html">
   <img src="https://img.shields.io/badge/Pseudocode-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Project%20Status-97/100%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Project%20Status-98.79/100%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
@@ -32,6 +32,7 @@
 * [Estructuras Repetitivas](#estructuras-repetitivas)
 * [Funciones y Subprogramas](#funciones-y-subprogramas)
 * [Arreglos](#arreglos)
+* [Integrador](#integrador)
 <hr>
 
 ## 🌱Descripción del proyecto
@@ -122,7 +123,8 @@ cd pseint
 >**_Guías Teóricas:_** _[Guía 10](https://drive.google.com/file/d/1cjYzQO5QPo1yzUXWIz6KsryHoHTHBVTZ/view) - [Guía 11](https://drive.google.com/file/d/1zVyR9WzerHm8US_KksNfLXfq-7qWI5fP/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 12-14](Practical%20Exercises%20-%20Task%2012-14) - [Encuentro 15-16](Practical%20Exercises%20-%20Task%2015-16)_
->>**_Desafío 2:_** _[Encuentro 17](Practical%20Exercises%20-%20Task%2017)_
+
+>**_Desafío 2:_** _[Encuentro 17](Practical%20Exercises%20-%20Task%2017)_
 
 ## ⚡Arreglos
 ### _Guía 4_
@@ -137,6 +139,15 @@ cd pseint
 >**_Ejercicios Practicos:_** _[Encuentro 18-21](Practical%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](Practical%20Exercises%20-%20Task%2022-25)_
 
 >**_Ejercicios Extras:_** _[Encuentro 18-21](https://github.com/Zexc4/Programming_Fundamentals/tree/main/Practical%20Exercises%20-%20Task%2018-21/Extra%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](https://github.com/Zexc4/Programming_Fundamentals/tree/main/Practical%20Exercises%20-%20Task%2022-25/Extra%20Exercises%20-%20Task%2022-25)_
+
+<hr>
+
+## ⚡Integrador
+
+- Resolver un ejercicio a través de una matriz y en función a esa resolución tendrás que responder un cuestionario. Lo deberás resolver de manera individual (puedes contar con la ayuda de tu equipo si la precisas).
+- El objetivo del integrador es que puedas consolidar todos los conocimientos que has adquirido durante el curso y que realices un autodiagnóstico sobre tu propio proceso de aprendizaje.
+
+[PRÓXIMAMENTE](https://github.com/Zexc4/Programming_Fundamentals)
 
 <hr>
 
