@@ -119,7 +119,7 @@ cd pseint
 - Definir variables de retorno y operar con ellas.
 - Utilizar estructuras de control en Funciones y Subprogramas.
 
->**_Guías Teóricas:_**[Guía 10](https://drive.google.com/file/d/1cjYzQO5QPo1yzUXWIz6KsryHoHTHBVTZ/view) - [Guía 11](https://drive.google.com/file/d/1zVyR9WzerHm8US_KksNfLXfq-7qWI5fP/view)
+>**_Guías Teóricas:_** _[Guía 10](https://drive.google.com/file/d/1cjYzQO5QPo1yzUXWIz6KsryHoHTHBVTZ/view) - [Guía 11](https://drive.google.com/file/d/1zVyR9WzerHm8US_KksNfLXfq-7qWI5fP/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 12-14](Practical%20Exercises%20-%20Task%2012-14) - [Encuentro 15-16](Practical%20Exercises%20-%20Task%2015-16)_
 >>**_Desafío 2:_** _[Encuentro 17](Practical%20Exercises%20-%20Task%2017)_
