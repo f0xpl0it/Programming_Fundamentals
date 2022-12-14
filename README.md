@@ -90,7 +90,7 @@ cd pseint
 - Armar estructuras condicionales.
 - Usar estructuras condicionales.
 
->_Guía Teórica_
+>**_Guías Teóricas_** _[Guía 3](https://drive.google.com/file/d/10qGdO7HOmYaoH86vEOrPFp6M7QAN7hd5/view) - [Guía 4](https://drive.google.com/file/d/1NwfAhRl_llW24g8IwEHWzhEfXWqvpf5w/view) - [Guía 5](https://drive.google.com/file/d/12hly8mQmBiQcohBoHvr6KSa1YTAIHF_k/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 4](Practical%20Exercises%20-%20Task%204) - [Encuentro 5](Practical%20Exercises%20-%20Task%205) - [Encuentro 6](Practical%20Exercises%20-%20Task%206)_
 
@@ -102,7 +102,7 @@ cd pseint
 - Armar estructuras repetitivas.
 - Usar estructuras repetitivas.
 
->_Guía Teórica_
+>**_Guías Teóricas:_** _[Guía 6](https://drive.google.com/file/d/1ipWceCteAmMAsPkwXHgC3dux9ZshTNmx/view) - [Guía 7](https://drive.google.com/file/d/1u_kHrfJAMAUle__aBSukf1Lph1Fr6DtV/view) - [Guía 8](https://drive.google.com/file/d/1bTG993kCgYxxnkXDbFsOPEEoUaUkEYsX/view) - [Guía 9](https://drive.google.com/file/d/1mA8X7XG6FnBfQseHmAr2xV15yW4R1kyC/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 7](Practical%20Exercises%20-%20Task%207) - [Encuentro 8](Practical%20Exercises%20-%20Task%208) - [Encuentro 9](Practical%20Exercises%20-%20Task%209) - [Encuentro 10](Practical%20Exercises%20-%20Task%2010)_
 
@@ -119,7 +119,7 @@ cd pseint
 - Definir variables de retorno y operar con ellas.
 - Utilizar estructuras de control en Funciones y Subprogramas.
 
->_Guía Teórica_
+>**_Guías Teóricas:_**[Guía 10](https://drive.google.com/file/d/1cjYzQO5QPo1yzUXWIz6KsryHoHTHBVTZ/view) - [Guía 11](https://drive.google.com/file/d/1zVyR9WzerHm8US_KksNfLXfq-7qWI5fP/view)
 
 >**_Ejercicios Practicos:_** _[Encuentro 12-14](Practical%20Exercises%20-%20Task%2012-14) - [Encuentro 15-16](Practical%20Exercises%20-%20Task%2015-16)_
 >>**_Desafío 2:_** _[Encuentro 17](Practical%20Exercises%20-%20Task%2017)_
@@ -132,7 +132,7 @@ cd pseint
 - Mostrar correctamente arreglos por pantalla.
 - Utilizar funciones y subprogramas, y estructuras de control para trabajar con arreglos y matrices.
 
->_Guía Teórica_
+>**_Guías Teóricas:_**  _[Guía 12](https://drive.google.com/file/d/1xKgCDGcNoYT-TMc-gEBgTExA6sVF2pma/view) - [Guía 13](https://drive.google.com/file/d/115mPDyp5nCVkMf5NMuLdYmJrU6draMFy/view)_
 
 >**_Ejercicios Practicos:_** _[Encuentro 18-21](Practical%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](Practical%20Exercises%20-%20Task%2022-25)_
 
