@@ -140,6 +140,8 @@ cd pseint
 
 >**_Ejercicios Extras:_** _[Encuentro 18-21](https://github.com/Zexc4/Programming_Fundamentals/tree/main/Practical%20Exercises%20-%20Task%2018-21/Extra%20Exercises%20-%20Task%2018-21) - [Encuentro 22-25](https://github.com/Zexc4/Programming_Fundamentals/tree/main/Practical%20Exercises%20-%20Task%2022-25/Extra%20Exercises%20-%20Task%2022-25)_
 
+>**_Desafío 3:_** _[Encuentro 26](Practical%20Exercises%20-%20Task%2026)_
+
 <hr>
 
 ## ⚡Integrador
