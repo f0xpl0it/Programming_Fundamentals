@@ -149,7 +149,7 @@ cd pseint
 - Resolver un ejercicio a través de una matriz y en función a esa resolución tendrás que responder un cuestionario. Lo deberás resolver de manera individual (puedes contar con la ayuda de tu equipo si la precisas).
 - El objetivo del integrador es que puedas consolidar todos los conocimientos que has adquirido durante el curso y que realices un autodiagnóstico sobre tu propio proceso de aprendizaje.
 
-> **_Ejercicio Integrador:_** _[Encuentro 27](https://github.com/Zexc4/Programming_Fundamentals)_
+> **_Ejercicio Integrador:_** _[Encuentro 27](https://github.com/Zexc4/Programming_Fundamentals/blob/main/Practical%20Exercises%20-%20Task%2027/Integrative_Exercise.psc)_
 
 <hr>
 
