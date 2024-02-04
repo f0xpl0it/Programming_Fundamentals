@@ -9,7 +9,7 @@
 
 ## Estado del Proyecto
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=zexc4.visitor-badge&left_text=Project%20Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 </p>
 
 <p align="center">
