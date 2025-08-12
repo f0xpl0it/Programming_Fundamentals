@@ -1,4 +1,4 @@
-## <h1 align="center"> Programming Fundamentals</h1>
+## <h1 align="center"> fUNDAMENTOS DE PROGRAMACIÓN</h1>
 <p align="center">
 <a href="https://pseint.sourceforge.net/">
 <br> 
