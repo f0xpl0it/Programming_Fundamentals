@@ -9,7 +9,7 @@
 
 ## Estado del Proyecto
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640"/>
 </p>
 
 <p align="center">
