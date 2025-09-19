@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://pseint.sourceforge.net/">
 <br> 
-  <img src="https://user-images.githubusercontent.com/63121465/206097149-9da8059b-2e2d-48a2-8863-f9adde2b2dd1.png"/></a>
+  <img src="https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg"/></a>
   <br> 
 </p>
 
@@ -154,11 +154,11 @@ cd pseint
 <hr>
 
 <p align="center">
-    <a href="https://github.com/Zexc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Zexc4-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/f0xpl0it" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/Zexc4Maiky" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+    <a href="https://x.com/f0xpl0it" target="_blank"><img alt="X" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ff0xpl0it"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Zexc4/Programming_Fundamentals" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Programming_Fundamentals?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Programming_Fundamentals" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Programming_Fundamentals?label=profile%20updated&style=flat-square"></a>
 </p>
