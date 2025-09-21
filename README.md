@@ -3,21 +3,17 @@
 <a href="https://pseint.sourceforge.net/">
 <br> 
   <img src="https://user-images.githubusercontent.com/63121465/206097149-9da8059b-2e2d-48a2-8863-f9adde2b2dd1.png"/></a>
-  <br> 
 </p>
 
+<br><br>
 
-## Estado del Proyecto
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640"/>
-</p>
+<img src="https://img.shields.io/badge/pseint-00BC8E?style=plastic&logo=supabase&logoColor=white" alt="PSeInt" />
+<img src="https://img.shields.io/badge/Pseudocode-8A3391?style=plastic&logo=pulumi&logoColor=white" alt="Pseudocode" />
 
-<p align="center">
-  <a href="https://pseint.sourceforge.net/">
-  <img src="https://img.shields.io/badge/pseint-00BC8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://pseint.sourceforge.net/slide/pseint.html">
-  <img src="https://img.shields.io/badge/Pseudocode-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Project%20Status-100/100%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+<!-- Badge para Project Status -->
+<img src="https://img.shields.io/badge/Project%20Status-100/100%20-%231572B6.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Project Status" />
 </p>
 <hr>
 
@@ -154,11 +150,20 @@ cd pseint
 <hr>
 
 <p align="center">
-    <a href="https://github.com/Zexc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Zexc4-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/Zexc4Maiky" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+    <a href="https://github.com/f0xpl0it" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=plastic&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white">
+    </a>
+<a href="https://x.com/f0xpl0it" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/-@f0xpl0it-FFFFFF?logo=x&logoColor=000000&style=plastic" />
+</a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Zexc4/Programming_Fundamentals" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Programming_Fundamentals?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Programming_Fundamentals" target="_blank">
+        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=plastic">
+    </a>
 </p>
+
