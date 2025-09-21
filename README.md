@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://pseint.sourceforge.net/">
 <br> 
-  <img src="https://thumbs.dreamstime.com/b/banner-de-codificaci%C3%B3n-lenguaje-programaci%C3%B3n-menor-compilaci%C3%B3n-del-tecnolog%C3%ADa-css-210006161.jpg" /></a>
+  <img src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" width="700" /></a>
 </p>
 
 <br><br>
