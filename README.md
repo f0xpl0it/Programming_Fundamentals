@@ -5,7 +5,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" width="700" /></a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640"/>
