@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://pseint.sourceforge.net/">
 <br> 
-  <img src="https://user-images.githubusercontent.com/63121465/206097149-9da8059b-2e2d-48a2-8863-f9adde2b2dd1.png"/></a>
+  <img src="https://thumbs.dreamstime.com/b/banner-de-codificaci%C3%B3n-lenguaje-programaci%C3%B3n-menor-compilaci%C3%B3n-del-tecnolog%C3%ADa-css-210006161.jpg" /></a>
 </p>
 
 <br><br>
